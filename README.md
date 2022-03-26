@@ -10,9 +10,11 @@ ln -s $(pwd)/restart-touchbar.sh /usr/local/bin/restart-touchbar
 ```
 
 ## How to Use
-```bash:#
-restart-touchbar
+```bash
+$ restart-touchbar
+```
 
+```shell
 # Output
 Restarted successfully.
 
