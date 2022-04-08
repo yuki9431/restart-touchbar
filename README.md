@@ -22,3 +22,6 @@ Restarted successfully.
 
 ## Author
 [Dillen H. Tomida](https://twitter.com/t0mihir0)
+
+## License
+This software is licensed under the MIT license, see [LICENSE](./LICENSE) for more information.
